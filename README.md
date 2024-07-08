@@ -26,13 +26,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_me_sudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_sudipto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/sudipto3331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sudipto3331/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudipto3331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipto3331/" height="30" width="40" /></a>
 <a href="https://fb.com/its.me.sudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its.me.sudipto" height="30" width="40" /></a>
 <a href="https://instagram.com/sud_i_pto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sud_i_pto" height="30" width="40" /></a>
 <a href="https://www.behance.net/sudiptomondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sudiptomondal2" height="30" width="40" /></a>
 <a href="https://medium.com/@sudipto3331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudipto3331" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uc_vvd-q2fbmi1vs0z7-pqow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc_vvd-q2fbmi1vs0z7-pqow" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/profile/sudipto3331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="profile/sudipto3331" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc_vvd-q2fbmi1vs0z7-pqow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_vvd-q2fbmi1vs0z7-pqow" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sudipto3331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sudipto3331" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
