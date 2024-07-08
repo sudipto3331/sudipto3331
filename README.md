@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudipto Mondal</h1>
+![banner](https://github.com/sudipto3331/sudipto3331/assets/37965793/3128ac42-3ae0-4c2d-b481-e4fd4ca71b3e)
+
 <h4 align="center">I am a passionate researcher in power electronics and a leader in robotics, web development, and hardware design, pursuing a B.Sc. in Electronics and Telecommunication Engineering (ETE) at Rajshahi University of Engineering & Technology (RUET). As the Founder and CTO of Edu-Explorer, I develop cutting-edge educational technology having a strong understanding of Backend Development (PHP, Laravel, MERN).</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipto3331&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto3331" /> </p>
