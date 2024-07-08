@@ -3,14 +3,13 @@
 
 <h4 align="center">I am a passionate researcher in power electronics and a leader in robotics, web development, and hardware design, pursuing a B.Sc. in Electronics and Telecommunication Engineering (ETE) at Rajshahi University of Engineering & Technology (RUET). As the Founder and CTO of Edu-Explorer, I develop cutting-edge educational technology having an experience of Webmaster and a strong understanding of Backend Development (PHP, Laravel, MERN). Catch my updates: <a href="https://sudiptomondal.me">https://sudiptomondal.me</a></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipto3331&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto3331" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=sudipto3331&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto3331" /> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sudipto3331)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sudiptomondal.me)
+[![Twitter Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/its.me.sudipto)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sud_i_pto/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@sudipto3331)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipto3331" alt="sudipto3331" /></a> </p>
