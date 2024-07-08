@@ -3,13 +3,19 @@
 
 <h4 align="center">I am a passionate researcher in power electronics and a leader in robotics, web development, and hardware design, pursuing a B.Sc. in Electronics and Telecommunication Engineering (ETE) at Rajshahi University of Engineering & Technology (RUET). As the Founder and CTO of Edu-Explorer, I develop cutting-edge educational technology having an experience of Webmaster and a strong understanding of Backend Development (PHP, Laravel, MERN). Catch my updates: <a href="https://sudiptomondal.me">https://sudiptomondal.me</a></h4>
 
- <img src="https://komarev.com/ghpvc/?username=sudipto3331&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto3331" /> 
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=sudipto3331&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto3331" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sudipto3331)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=en4Q9ZwAAAAJ&hl=en)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sudiptomondal.me)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/its.me.sudipto)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sud_i_pto/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UC_vVD-q2FbMi1VS0z7-PQOw)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@sudipto3331)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8036-8347)
+[![IEEE Badge](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieee.org/author/37089687527)
+[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sudipto-Mondal-4)
+[![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/its_me_Sudipto)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipto3331" alt="sudipto3331" /></a> </p>
@@ -39,7 +45,7 @@
 <a href="https://instagram.com/sud_i_pto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sud_i_pto" height="30" width="40" /></a>
 <a href="https://www.behance.net/sudiptomondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sudiptomondal2" height="30" width="40" /></a>
 <a href="https://medium.com/@sudipto3331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudipto3331" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc_vvd-q2fbmi1vs0z7-pqow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_vvd-q2fbmi1vs0z7-pqow" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_vVD-q2FbMi1VS0z7-PQOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_vvd-q2fbmi1vs0z7-pqow" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sudipto3331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sudipto3331" height="30" width="40" /></a>
 </p>
 
