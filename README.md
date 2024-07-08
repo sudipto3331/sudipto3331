@@ -15,7 +15,7 @@
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8036-8347)
 [![IEEE Badge](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieee.org/author/37089687527)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sudipto-Mondal-4)
-[![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/its_me_Sudipto)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipto3331" alt="sudipto3331" /></a> </p>
